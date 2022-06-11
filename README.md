@@ -1,6 +1,6 @@
 <h1> Olá eu sou Gabriel Santos 🖐️🐸</h1> 
 
-<h2>Apaixonado pelo front-end</h2>
+<h2>No caminho para me tornar um desenvolvedor web</h2>
 
 <div style="display: inline_block">
     <img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
