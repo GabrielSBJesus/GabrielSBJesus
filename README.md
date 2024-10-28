@@ -10,7 +10,6 @@
 
 
 - Sou estudante de [**ADS**](https://alegre.ifes.edu.br/index.php/component/content/article/2-uncategorised/17704-tecnologia-em-analise-e-desenvolvimento-de-sistemas) no [**Instituto Federal do Espírito Santo**](https://alegre.ifes.edu.br/)
-- Estudante DevOps pelo programa [**Desenvolve**](https://desenvolve.grupoboticario.com.br/) do [**Grupo Boticário**](https://www.grupoboticario.com.br/)
 - 20 anos
 - Nacionalidade brasileira
 
